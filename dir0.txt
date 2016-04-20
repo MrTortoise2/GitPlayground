@@ -1,0 +1,10 @@
+ Volume in drive M is steam
+ Volume Serial Number is 747C-43B4
+
+ Directory of M:\programming\git-playground\source
+
+20/04/2016  14:42    <DIR>          .
+20/04/2016  14:42    <DIR>          ..
+20/04/2016  14:42                 0 dir0.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  25,860,968,448 bytes free
